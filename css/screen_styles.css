@@ -59,4 +59,38 @@ a.cta{
 	font-size: .9em;
 	font-weight: bold;
 	margin:0.5em 0 0 0;
+	padding-right:12px; 
+	background: url(../Images/cta_arrow.png) no-repeat right 1px;
+} 	
+
+a.cta:hover{
+	background-position: right -49px;
+}
+
+.promo h3{
+	font-size: 1.1em; 
+	margin:0;
+}
+
+
+.promo p{
+	line-height: 1.2em;
+	font-size: .9em;
+	margin:0.5em;
+}
+
+.promo{
+	background-repeat: no-repeat;
+}	
+
+.promo.one{
+	background-image: url(../Images/promo_1.jpg);
+}
+
+.promo.two{
+	background-image: url(../Images/promo_2.jpg);
+}
+
+.promo.three{
+	background-image: url(../Images/promo_3.jpg);
 }
