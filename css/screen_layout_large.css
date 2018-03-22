@@ -60,3 +60,7 @@ nav{
 nav a{
 	margin:12px 0 10px 20px;
 }
+
+@media screen and (max-width: 990px){
+	footer{padding-left:10px;}
+}
