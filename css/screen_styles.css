@@ -94,3 +94,22 @@ a.cta:hover{
 .promo.three{
 	background-image: url(../Images/promo_3.jpg);
 }
+
+nav a{
+	color:#f5a06e;
+	text-transform: uppercase;
+	text-decoration: none;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+
+nav a:hover {
+	color: #fff;
+
+}
+
+.clear-fix{
+	clear: both;
+	line-height: 1px;
+}
